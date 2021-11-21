@@ -1,0 +1,165 @@
+body{
+    
+
+    /* adding image in the background */
+    background-image: url("rock concert wallpaper.jpg");  
+    
+    /* adjusting width and height of background image */
+    height: 100px;
+    width: 100px;
+
+    /* placement of background image */
+    background-position: center;
+    
+    
+}
+
+.key {
+    
+    /* font */
+    font-family: serif;
+    
+    /* color */
+    color: white;
+
+    /* border */
+    border:4px solid black;
+    border-radius: 5px;
+
+
+    margin: 1rem;
+    text-align: center;
+    text-shadow: 0 0 5px black;
+    background: rgba(0,0,0,0.4);
+    width:100px;
+    transition: all 0.07s;
+    font-size:3.5rem;
+    padding: 1rem 0.5rem;
+
+    
+}
+
+.btn-p{
+
+    color:gold;
+    
+    /* font */
+    font-family: sans-serif;
+    font-size: 0.8rem;
+
+}
+
+
+.a{
+       /* position */
+       position:absolute;
+       left:5%;
+       top:320px;
+
+       /* font */
+       font-size: 2.5rem;
+
+}
+
+
+.s{
+    /* position */
+    position:absolute;
+    left:15%;
+    top:320px;
+
+      /* font */
+      font-size: 2.5rem;
+
+}
+
+
+.d{
+    /* position */
+    position:absolute;
+    left:25%;
+    top:320px;
+
+      /* font */
+      font-size: 2.5rem;
+
+}
+
+
+.f{
+    /* position */
+    position:absolute;
+    left:35%;
+    top:320px;
+
+      /* font */
+      font-size: 2.5rem;
+
+}
+
+
+.g{
+    /* position */
+    position:absolute;
+    left:45%;
+    top:320px;
+
+      /* font */
+      font-size: 2.5rem;
+
+}
+
+
+.h{
+    /* position */
+    position:absolute;
+    left:55%;
+    top:320px;
+
+      /* font */
+      font-size: 2.5rem;
+
+}
+
+
+.j{
+    /* position */
+    position:absolute;
+    left:65%;
+    top:320px;
+
+      /* font */
+      font-size: 2.5rem;
+
+}
+
+
+.k{
+    /* position */
+    position:absolute;
+    left:75%;
+    top:320px;
+
+      /* font */
+      font-size: 2.5rem;
+
+}
+
+
+.l{
+    /* position */
+    position:absolute;
+    left: 85%;
+    top:320px;
+
+      /* font */
+      font-size: 2.5rem;
+
+}
+
+
+.playing { 
+    transform: scale(1.1);
+    border-color: #ffc600;
+    box-shadow: 0 0 10px #ffc600;
+}
